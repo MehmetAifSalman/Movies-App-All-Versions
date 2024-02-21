@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989666630561",
+    "project_id": "kasimegitim",
+    "storage_bucket": "kasimegitim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989666630561:android:de52343d1eb0947d6d09e0",
+        "android_client_info": {
+          "package_name": "com.example.filmlerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzikGiUSYDwWG2KG4fWChJ0ipx0NnEwwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989666630561:android:e09ab6e76016160a6d09e0",
+        "android_client_info": {
+          "package_name": "com.example.kisileruygulamas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzikGiUSYDwWG2KG4fWChJ0ipx0NnEwwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
